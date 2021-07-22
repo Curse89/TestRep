@@ -1,4 +1,4 @@
 privet
 line from user2
 user2
-bag fixed
+user 2 rebase master
