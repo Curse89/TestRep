@@ -1,4 +1,4 @@
 privet
 line from user2
 user2
-user 2 rebase master
+user 2 rebase master2
